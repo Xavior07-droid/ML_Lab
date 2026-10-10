@@ -1,6 +1,5 @@
 # Lab 5: K-Nearest Neighbor (KNN) for Classification and Regression
 # Dataset: Pima Indians Diabetes (diabetes.csv)
-# Name: Anushka Boreklar
 
 import numpy as np
 import pandas as pd
